@@ -1,6 +1,3 @@
-.chat-lines li[data-badges*="Moderator"] .from {
-    color: #8383f9 !important;
-}
 .chat-lines li[data-badges*="Broadcaster"] {
     background-color: #000090 !important;
 }
