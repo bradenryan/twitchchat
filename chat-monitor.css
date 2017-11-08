@@ -48,9 +48,7 @@ body {
 .tse-scrollbar {
 	display:none !important;
 }
-.mod-icon {
-	display:none !important;
-}
+
 .badges {
 	display:none !important;
 }
@@ -62,9 +60,6 @@ img {
 }
 a {
 	color:inherit !important;
-}
-.from {
-	color:green !important;
 }
 .message {
     color:white !important;
