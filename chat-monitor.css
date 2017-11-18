@@ -42,8 +42,8 @@ body {
 }
 .chat-messages .chat-line {
     padding:6px 1px !important;
-		font-size:20px !important;
-	line-height:23px !important;
+		font-size:12px !important;
+	line-height:15px !important;
 }
 .tse-scrollbar {
 	display:none !important;
@@ -68,7 +68,7 @@ a {
 }
 .message {
     color:white !important;
-    font-weight:300 !important;
+    font-weight:30 !important;
 }
 
 .deleted {
