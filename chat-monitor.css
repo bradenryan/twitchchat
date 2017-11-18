@@ -71,7 +71,7 @@ textarea.form__input,
 .chat-lines li {
 }
 .chat-lines li.odd{
-	background-color:#111 !important;
+	background-color:#eee !important;
 }
 .chat-messages .chat-line {
 	padding:3px 1px 3px 1px !important;
