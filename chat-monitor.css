@@ -42,13 +42,15 @@ body {
 }
 .chat-messages .chat-line {
     padding:6px 1px !important;
-		font-size:24px !important;
+		font-size:32px !important;
 	line-height:35px !important;
 }
 .tse-scrollbar {
 	display:none !important;
 }
-
+.mod-icon {
+	display:none !important;
+}
 .badges {
 	display:none !important;
 }
@@ -60,6 +62,9 @@ img {
 }
 a {
 	color:inherit !important;
+}
+.from {
+	color:green !important;
 }
 .message {
     color:white !important;
