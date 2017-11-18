@@ -76,7 +76,7 @@ textarea.form__input,
 .chat-messages .chat-line {
 	padding:3px 1px 3px 1px !important;
 	margin-top:2px !important;
-	font-size:32px !important;
+	font-size:10px !important;
 	line-height:35px !important;
 	border-bottom:#444 solid 1px !important;
 	animation:expand 1s linear; /* Needs to be linear as the animation has no idea when it will stop having a visual effect with max-height */
