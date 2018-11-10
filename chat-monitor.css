@@ -49,7 +49,7 @@ body {
 .chat-line__message, .chat-line__status, .chat-line__subscribe, .user-notice-line {
     padding:3px 1px 3px 6px !important;
     font-size:16px !important;
-    line-height:35px !important;
+    line-height:17px !important;
     border-bottom:#444 solid 1px !important;
 }
 .chat-line__subscribe span {
@@ -63,12 +63,12 @@ body {
 }
 .chat-line__message .chat-card__link .chat-card__title span {
     font-size: 16px !important;
-    line-height: 35px !important;
+    line-height: 17px !important;
     color: white;
 }
 .chat-line__message .chat-card__link .chat-card__title + div span {
     font-size: 16px !important;
-    line-height: 35px !important;
+    line-height: 17px !important;
     color: #bbb !important;
 }
 .mention-fragment {
